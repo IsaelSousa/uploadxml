@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="102244.xsl"?>
+
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe">
+<NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+    <infNFe Id="NFe33200203752681000132550020001022441102188807" versao="4.00">
+        <ide>
+            <cUF>33</cUF>
+            <cNF>10218880</cNF>
+            <natOp>VENDA</natOp>
+            <mod>55</mod>
+            <serie>2</serie>
+            <nNF>102244</nNF>
+            <dhEmi>2020-02-28T17:46:07-03:00</dhEmi>
+            <dhSaiEnt>2020-02-28T17:46:07-03:00</dhSaiEnt>
+            <tpNF>1</tpNF>
+            <idDest>1</idDest>
+            <cMunFG>3306008</cMunFG>
+            <tpImp>1</tpImp>
+            <tpEmis>1</tpEmis>
+            <cDV>7</cDV>
+            <tpAmb>1</tpAmb>
+            <finNFe>1</finNFe>
+            <indFinal>1</indFinal>
+            <indPres>1</indPres>
+            <procEmi>0</procEmi>
+            <verProc>35.71</verProc>
+        </ide>
+        <emit>
+            <CNPJ>03752681000132</CNPJ>
+            <xNome>POSTO IPIRANGAO DE TRES RIOS LTDA</xNome>
+            <xFant>POSTO IPIRANGAO</xFant>
+                <enderEmit>
+                    <xLgr>ROD. BR 040 KM 16 + 900 METROS</xLgr>
+                    <nro>0</nro>
+                    <xBairro>VILA ISABEL</xBairro>
+                    <cMun>3306008</cMun>
+                    <xMun>TRES RIOS</xMun>
+                    <UF>RJ</UF>
+                    <CEP>25812470</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                    <fone>2422557373</fone>
+                </enderEmit>
+            <IE>75138377</IE><CRT>3</CRT>
+        </emit>
+        <dest>
+        <CNPJ>49871213000188</CNPJ>
+        <xNome>IC TRANSPORTES LTDA.</xNome>
+            <enderDest>
+                <xLgr>AV. ANHANGUERA</xLgr>
+                <nro>0</nro>
+                <xCpl>KM 114 - CX POS</xCpl>
+                <xBairro>DISTRITO DE NOVA VENEZA</xBairro>
+                <cMun>3552403</cMun>
+                <xMun>SUMARE</xMun
+                ><UF>SP</UF>
+                <CEP>13177970</CEP>
+                <cPais>1058</cPais>
+                <xPais>BRASIL</xPais>
+            </enderDest>
+        <indIEDest>1</indIEDest>
+        <IE>671195894118</IE>
+        </dest>
+        <det nItem="1">
+            <prod>
+                <cProd>4</cProd>
+                <cEAN>SEM GTIN</cEAN>
+                <xProd>DIESEL S-10</xProd>
+                <NCM>27101921</NCM>
+                <CEST>0600400</CEST>
+                <CFOP>5667</CFOP>
+                <uCom>L</uCom>
+                <qCom>366.999</qCom>
+                <vUnCom>3.698</vUnCom>
+                <vProd>1357.16</vProd>
+                <cEANTrib>SEM GTIN</cEANTrib>
+                <uTrib>L</uTrib>
+                <qTrib>366.999</qTrib>
+                <vUnTrib>3.698</vUnTrib>
+                <indTot>1</indTot>
+                    <comb>
+                        <cProdANP>820101003</cProdANP>
+                        <descANP>DIESEL B5 INTERIOR COMUM</descANP>
+                        <UFCons>RJ</UFCons>
+                    </comb>
+            </prod>
+            <imposto>
+                <vTotTrib>453.97</vTotTrib>
+                <ICMS>
+                    <ICMSST>
+                        <orig>0</orig>
+                        <CST>60</CST>
+                        <vBCSTRet>0.00</vBCSTRet>
+                        <vICMSSTRet>0.00</vICMSSTRet>
+                        <vBCSTDest>0.00</vBCSTDest>
+                        <vICMSSTDest>0.00</vICMSSTDest>
+                    </ICMSST>
+                </ICMS>
+                <PIS>
+                    <PISNT>
+                            <CST>04</CST>
+                    </PISNT>
+                </PIS>
+                <COFINS>
+                    <COFINSNT>
+                        <CST>04</CST>
+                    </COFINSNT>
+                </COFINS>
+            </imposto>
+        </det>
+        <total>
+            <ICMSTot>
+                <vBC>0.00</vBC>
+                <vICMS>0.00</vICMS>
+                <vICMSDeson>0.00</vICMSDeson>
+                <vFCP>0.00</vFCP>
+                <vBCST>0.00</vBCST>
+                <vST>0.00</vST>
+                <vFCPST>0.00</vFCPST>
+                <vFCPSTRet>0.00</vFCPSTRet>
+                <vProd>1357.16</vProd>
+                <vFrete>0.00</vFrete>
+                <vSeg>0.00</vSeg>
+                <vDesc>0.00</vDesc>
+                <vII>0.00</vII>
+                <vIPI>0.00</vIPI>
+                <vIPIDevol>0.00</vIPIDevol>
+                <vPIS>0.00</vPIS>
+                <vCOFINS>0.00</vCOFINS>
+                <vOutro>0.00</vOutro>
+                <vNF>1357.16</vNF>
+                <vTotTrib>453.97</vTotTrib>
+            </ICMSTot>
+        </total>
+        <transp>
+            <modFrete>9</modFrete>
+        </transp>
+        <pag>
+            <detPag>
+                <indPag>0</indPag>
+                <tPag>99</tPag>
+                <vPag>1357.16</vPag>
+            </detPag>
+        </pag>
+        <infAdic>
+            <infCpl>BI:9 BO:6 TQ:6 EI:501651,981 EF:502018,980.  CX:DIA OP: V:29.  CLIENTE: IC TRANSPORTES LTDA..  IE: 671195894118 PLACA: EZU-2479 KM: 405970.  AV. ANHANGUERA/KM 114 - CX POS, DISTRITO DE NOVA VENEZA, SUMARE/SP, CEP 13177-970.  MEDIA ANTERIOR 2,0KM/L. ATUAL 11,7KM/L.                            OBRIGADO PELA PREFERENCIA E VOLTE SEMPRE.  PROCON RJ: TEL 151 (Av. Rio Branco 25, 5o Andar, Centro).  ALERJ: TEL 0800-0220008 (Rua 1o de Marco s/n, Praca XV).   IMPOSTO RECOLHIDO POR S.T. NOS TERMOS DO ART.73 ANEXO XV DO RICMS/MG. BASE ICMS/ST = R$ 1.379,91 VALOR ICMS/ST = R$ 206,99. (DIESEL S-10 BASE ICMS/ST = R$ 1.379,91 VALOR ICMS/ST = R$ 206,99;)</infCpl>
+        </infAdic>
+        </infNFe>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#NFe33200203752681000132550020001022441102188807"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>WCEEoXmL3WIvdOwP6Vc9Zt1RwmY=</DigestValue></Reference></SignedInfo><SignatureValue>Sz+kgeQwvRuaQ6DNpHKevymUAFQR6YHGYzm6Z9bPK1jyJeKFWtAF1nrmXvsqk6j52/rEBzDEpSZElEikIH6VCmZZs3hl0VzkhCjxBI6roQJzUWAdaG0wuqJYbyy1V8CsqATCuCBFXE8U0Y8IwOH3r1BaO+h/wgQSmsY7vxTwyqvO6xN3nq8iUFCeqJ4EgHnoZSgFg3UkhMktJi+3PkWZZJN8H4kYWmiWpjY3zxv3jIVMzHx2T9OtO4IDPweaT+E3JPInTmZmkZZjiOhDSQaphRCi53A67wYVx4LgFf4Ca7nV9eJUfhvCJAHpQvbiU8i63IJ1RT0XdyQviAJhsNpfhg==</SignatureValue><KeyInfo><X509Data><X509Certificate>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</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00"><infProt><tpAmb>1</tpAmb><verAplic>SVRS201908091113</verAplic><chNFe>33200203752681000132550020001022441102188807</chNFe><dhRecbto>2020-02-28T17:46:09-03:00</dhRecbto><nProt>333200030383481</nProt><digVal>WCEEoXmL3WIvdOwP6Vc9Zt1RwmY=</digVal><cStat>100</cStat><xMotivo>Autorizado o uso da NF-e</xMotivo></infProt></protNFe></nfeProc>
